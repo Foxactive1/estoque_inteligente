@@ -1,5 +1,4 @@
 
-</head>
 <body>
 <div class="container" data-cid="af6xtR">
 <article data-cid="dKk7hu">
