@@ -1,0 +1,19 @@
+# Arquivo: requirements.txt
+Flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+google-generativeai==0.3.2
+sqlite3
+# Documentação e API
+flasgger==0.9.7.1
+swagger-ui-bundle==1.1.0
+pyyaml==6.0.1
+apispec==6.3.0
+apispec-webframeworks==0.5.2
+
+# Validação de OpenAPI
+openapi-spec-validator==0.5.1
+prance==0.21.8
+
+# Testes de documentação
+swagger-spec-validator==3.0.3
